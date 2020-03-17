@@ -22,3 +22,9 @@ Keras is compatible with: Python 2.7-3.6.
 # **Deep learning with Keras**
 
 This repository contains various deep learning projects in Keras. **Keras** is an open-source deep learning library written in Python. 
+
+
+## **Table of Contents**
+
+
+#### **1. Basics**
