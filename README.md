@@ -17,7 +17,7 @@ Official documentation of Keras can be found at [Keras.io.](https://keras.io/)
 
 Keras is compatible with: Python 2.7-3.6.
 
-License : All code and material is licensed under a [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/)
+License : All code and material is licensed under [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 --------------------------------------------------------------------------------
 
