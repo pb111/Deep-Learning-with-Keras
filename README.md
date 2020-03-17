@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="Keras logo" /></p>
+<p align="center"><img width="40%" src="Keras logo.png" /></p>
 
 
 --------------------------------------------------------------------------------             
