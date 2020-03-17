@@ -14,11 +14,19 @@ We use Keras if you need a deep learning library that:
   - Supports both convolutional networks and recurrent networks, as well as combinations of the two.
   - Runs seamlessly on CPU and GPU.
   
+## **Official documentation of Keras**  
+  
 Official documentation of Keras can be found at [Keras.io.](https://keras.io/)
+
+
+## **Compatibility**
 
 Keras is compatible with: Python 2.7-3.6.
 
-License : All code and material is licensed under [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+## **License**
+
+All code and material is licensed under [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 --------------------------------------------------------------------------------
 
