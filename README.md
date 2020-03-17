@@ -22,7 +22,7 @@ License : All code and material is licensed under [Creative Commons Attribution-
 
 --------------------------------------------------------------------------------
 
-# **Deep learning with Keras**
+# **Deep Learning with Keras**
 
 This repository contains various deep learning projects in Keras. **Keras** is an open-source deep learning library written in Python. 
 
